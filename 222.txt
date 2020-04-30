@@ -1,0 +1,5 @@
+ping 
+telnet
+ddd
+ddfsdf
+sdfwerwdde
