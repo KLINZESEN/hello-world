@@ -1,5 +1,1 @@
-ping 
-telnet
-ddd
-ddfsdf
-sdfwerwdde
+hello world
